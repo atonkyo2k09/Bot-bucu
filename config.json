@@ -14,15 +14,15 @@
     "eventDisabled": [],
     "autoClean": true,
     "ACCESSTOKEN": "",
-    "BOTNAME": "Tuấn Ank",
-    "AMDIN_NAME": "Hà Tuấn Ank",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/anhyeuemnhamlun",
+    "BOTNAME": "Don Lorenzo",
+    "AMDIN_NAME": "Ton Lorenzo",
+    "FACEBOOK_ADMIN": "Https://m.me/61553666985633",
     "PREFIX": "/",
     "ADMINBOT": [
-        "61555625227297"
+        "61553666985633"
     ],
     "NDH": [
-        "61555625227297"
+        "61553666985633"
     ],
     "DATABASE": {
         "sqlite": {
